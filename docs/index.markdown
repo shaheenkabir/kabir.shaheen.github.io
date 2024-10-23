@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+## Navigate to Lab Pages
+
+- [BIOL220 Lab](biol220_lab.html)

@@ -5,6 +5,10 @@
 layout: home
 ---
 
-## Navigate to Lab Pages
+<div style="text-align: center;">
+    <h2 style="color: red;">Some necessary course materials</h2>
+</div>
+
+# Navigate to Lab Pages
 
 - [BIOL220 Lab](biol220_lab.html)
